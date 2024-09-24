@@ -20,3 +20,4 @@ parseInt(prompt('nome?'))
 function media(num1,num2,num3,){
     return (num1+num2=num3)/num1+2+3;
 }
+console.log(media(3,4,6))
