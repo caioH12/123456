@@ -14,3 +14,9 @@ let areatrapezio= function(num1,num2,num3){
     return (num1+num2)*num3/2;
 }
 console.log(areatrapezio(2,3,5))
+let nome= prompt('nome?');
+document.write(nome);
+parseInt(prompt('nome?'))
+function media(num1,num2,num3,){
+    return (num1+num2=num3)/num1+2+3;
+}
