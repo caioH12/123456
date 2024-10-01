@@ -34,8 +34,8 @@
 //     console.log(paises[i]);
     
 // }
-let idade=15;
-if (idade>14) {
+let idade=parseInt(prompt('qual a sua idade?'));
+if (idade>17) {
     console.log('Pode voar')
     
 }
