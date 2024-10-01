@@ -26,6 +26,6 @@ let paises =['brasil', 'china', 'estados unidos', 'russia', 'egito', 'canada', '
 let i=0;
 while(i<7){
     console.log(i);
-    console.log (nomes[i]);
+    console.log (paises[i]);
     i=i+1;
 }
