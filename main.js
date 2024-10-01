@@ -24,7 +24,7 @@
 
 let paises =['brasil', 'china', 'estados unidos', 'russia', 'egito', 'canada', 'italia', 'franca', 'inglaterra', 'coreia', 'alemanha'];
 let i=0;
-while(i<10){
+while(i<paises.length){
     console.log(i);
     console.log (paises[i]);
     i=i+1;
