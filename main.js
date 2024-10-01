@@ -36,9 +36,9 @@
 // }
 let idade=15;
 if (idade>14) {
-    console.log('pode voar')
+    console.log('Pode voar')
     
 }
 else{
-console.log('ilegal voar')
+console.log('Ilegal voar')
 }
