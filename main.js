@@ -35,7 +35,7 @@
     
 // }
 let idade=15;
-if (idade>17) {
+if (idade>15) {
     console.log('pode voar')
     
 }
