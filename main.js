@@ -29,3 +29,8 @@ while(i<paises.length){
     console.log (paises[i]);
     i=i+1;
 }
+for (let i = 0; i < paises.length; i++) {
+    console.log (i);
+    console.log(paises[i]);
+    
+}
