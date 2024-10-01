@@ -22,15 +22,23 @@
 // }
 // console.log(media(3,4,6))
 
-let paises =['brasil', 'china', 'estados unidos', 'russia', 'egito', 'canada', 'italia', 'franca', 'inglaterra', 'coreia', 'alemanha'];
-let i=0;
-while(i<paises.length){
-    console.log(i);
-    console.log (paises[i]);
-    i=i+1;
-}
-for (let i = 0; i < paises.length; i++) {
-    console.log (i);
-    console.log(paises[i]);
+// let paises =['brasil', 'china', 'estados unidos', 'russia', 'egito', 'canada', 'italia', 'franca', 'inglaterra', 'coreia', 'alemanha'];
+// let i=0;
+// while(i<paises.length){
+//     console.log(i);
+//     console.log (paises[i]);
+//     i=i+1;
+// }
+// for (let i = 0; i < paises.length; i++) {
+//     console.log (i);
+//     console.log(paises[i]);
     
+// }
+let idade=15;
+if (idade>17) {
+    console.log('pode voar')
+    
+}
+else{
+console.log('ilegal voar')
 }
